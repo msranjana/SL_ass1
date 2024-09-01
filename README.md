@@ -1,11 +1,11 @@
-# Beach Ashy
+# Beach mng
 
-Welcome to the Beach Ashy project! This is a web application deployed on Vercel, showcasing a top 3 beaches in Mangalore with a interactive interface.This mini project serves as a demonstration of the project for the skill lab assignment by TCE.
+Welcome to the Beach mng project! This is a web application deployed on Vercel, showcasing a top 3 beaches in Mangalore with a interactive interface.This mini project serves as a demonstration of the project for the skill lab assignment by TCE.
 
 
 ## Live Demo
 
-You can view the live demo of the application at: [beach-ashy.vercel.app](https://beach-ashy.vercel.app/)
+You can view the live demo of the application at: [beach-mng.vercel.app]([https://beach-ashy.vercel.app/](https://beach-mng.vercel.app/))
 
 ## Features
 
@@ -20,11 +20,11 @@ To get started with this project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/beach-ashy.git
+   git clone https://github.com/your-username/beach-mng.git
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd beach-ashy
+   cd beach-mng
 3. **Install Dependencies**
 
    ```bash
