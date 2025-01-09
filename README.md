@@ -1,6 +1,6 @@
 # Beach MNG
 
-Welcome to the Beach mng project! This is a web application deployed on Vercel, showcasing a top 3 beaches in Mangalore with a interactive interface.This mini project serves as a demonstration of the project for the skill lab assignment by TCE.
+Welcome to the Beaches of Mangalore mini-project! This is a web application deployed on Vercel, showcasing a top 3 beaches in Mangalore with a interactive interface.This mini project serves as a demonstration of the project for the skill lab assignment by TCE.
 
 
 ## Live Demo
