@@ -5,7 +5,7 @@ Welcome to the Beach mng project! This is a web application deployed on Vercel, 
 
 ## Live Demo
 
-You can view the live demo of the application at: [beach-mng.vercel.app]([https://beach-ashy.vercel.app/](https://beach-mng.vercel.app/))
+You can view the live demo of the application at: [beach-mng.vercel.app]([https://beach-mng.vercel.app/](https://beach-mng.vercel.app/))
 
 ## Features
 
