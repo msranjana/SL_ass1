@@ -40,7 +40,7 @@ To get started with this project locally, follow these steps:
 
 - **CSS**: Handles the styling and responsive layout.
 - **Bootstrap**:To build completely responsive websites quickly
-- **React**: For building the user interface
+
 
 
 ## Contributing
